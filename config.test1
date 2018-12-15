@@ -1,0 +1,11 @@
+BrokerID 9999
+UserID 090419
+password yeshiwei
+TradeFront tcp://180.168.146.187:10030
+MarketFront tcp://180.168.146.187:10031
+HistoryLocation /root/CTP/CTP_tickrecorder/Kline/
+Delay -2859
+PrintTick 0
+CloseAll 0
+TradingIntervals 4 21:00:00 01:00:00 09:00:00 10:15:00 10:30:00 13:25:00 13:30:00 20:59:59
+TradingLevel 912794.4

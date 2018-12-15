@@ -1,0 +1,2 @@
+LD_LIBRARY_PATH=/root/CTP/Trader/lib:$LD_LIBRARY_PATH
+export LD_LIBRARY_PATH
