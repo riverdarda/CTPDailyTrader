@@ -1,0 +1,7 @@
+*.con
+instruments
+bin/*
+lib/*
+theoriticalPortfolio/*
+main_instrument/*
+*/._*

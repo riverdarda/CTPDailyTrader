@@ -91,3 +91,8 @@ for item in main_inst.items():
     print(item)
     filehandle.write( item[1][0] + '\n')
 filehandle.close()
+
+filehandle = open("instruments", 'w')
+for ProductID in main_inst:
+    filehandle.write('%s %s\n'%(ProductID, main_inst[ProductID][0]))
+filehandle.close()
